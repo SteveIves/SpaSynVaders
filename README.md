@@ -1,22 +1,13 @@
--------------------------------------------------------------------------------
-Synergy/DE CodeExchange Submission
+# SpaSynVaders
 
-Title:              SpaSynVaders.zip
+A Space Invaders game written in Synergy .NET
 
-Description:        A Space Invaders game written in Synergy .NET
+This application is based in part on a Space Invaders game originally written in C# by Mike Gold (msgold@gmail.com) and is published with his kind permission.
 
-Author:             Steve Ives (Synergex Professional Services Group)
+Requirements:
 
-Acknowledgements:   This application is based in part on a Space Invaders game
-                    originally written in C# by Mike Gold (msgold@gmail.com)
-                    and is published with his kind permission.
+* Microsoft Visual Studio 2010 Professional (or higher)
 
-Revision:           1.0 (19th May 2011)
+* Synergy/DE Professional Series Workbench 9.5.1a (or higher)
 
-Platforms:          Microsoft Windows XP SP3 or higher
-
-Requirements:       Microsoft Visual Studio 2010 Professional (or higher)
-                    Synergy/DE Professional Series Workbench 9.5.1a (or higher)
-                    Synergy Language Itegration for Visual Studio 9.5.1a (or higher)
-
--------------------------------------------------------------------------------
+* Synergy Language Itegration for Visual Studio 9.5.1a (or higher)
