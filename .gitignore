@@ -5,6 +5,7 @@
 *.dbp
 *.in
 *-background.log
+*.resources
 
 # User-specific files
 *.suo
